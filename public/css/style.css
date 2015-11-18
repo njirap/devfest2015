@@ -1475,3 +1475,7 @@ blockquote > p {
 .scroll-down i {
   color: #3f51b5;
 }
+
+.countdown {
+  padding-left: 250px;
+}
